@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "contracts": "pnpm --filter @blockful/contracts"
+    "contracts": "pnpm --filter @blockful/contracts",
+    "frontend": "pnpm --filter @blockful/frontend",
+    "indexer": "pnpm --filter @blockful/indexer"
   },
   "keywords": [],
   "author": "",
